@@ -10,4 +10,4 @@ async function getPlanet(id) {
   console.info(data);
 }
 
-getPlanet(999); // Bad ID — watch the console
+getPlanet(1); // Bad ID — watch the console
